@@ -1,0 +1,14 @@
+#!/bin/bash
+chmod +x ofusca
+sleep 3
+if [ -e  $PREFIX/bin/ofusca ]; then
+rm $PREFIX/bin/ofusca
+cp ofusca $PREFIX/bin
+else
+cp ofusca $PREFIX/bin
+fi
+echo "Finished"
+printf "
+Utilize\033[31m ofusca
+\033[0m\n"
+sleep 0.4
