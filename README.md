@@ -2,7 +2,7 @@
 ![ofusca](https://blog.reaccionestudio.com/wp-content/uploads/2013/04/ofuscar_javascript.png) 
 <a href="https://github.com/Anonymous-Zpt"><img title="Author" src="https://img.shields.io/badge/Author-Anonymous%20Zpt-svg?style=for-the-badge&logo=github"></a>
 <div align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-0.2-green.svg?style=flat-square"></a>
 <a href="https://github.com/Anonymous-Zpt/ofusca/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Anonymous-Zpt/ofusca?color=red&style=flat-square"></a>
 <a href="https://github.com/Anonymous-Zpt/ofusca/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Anonymous-Zpt/ofusca?color=red&style=flat-square"></a>
 <a href="https://github.com/Anonymous-Zpt/ofusca/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Anonymous-Zpt/ofusca?label=Watchers&color=blue&style=flat-square"></a>
@@ -31,5 +31,5 @@ Esta seria toda la instalación, ahora para ver más opciones solo se ejecuta 'o
 # Uso
 > Para ver listado de ofuscación
    ofusca -o
-- Para ver listado de desofuscacion
+> Para ver listado de desofuscacion
 ofusca -d 
