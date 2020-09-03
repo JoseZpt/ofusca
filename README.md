@@ -14,6 +14,7 @@ ofusca es una herramienta que nos permite ofuscar en diversas programaciones:
 - 7 ofuscadores para programación bash
 - 1 ofuscador para python2 
 - 1 ofuscador para php
+
 También tiene la función de desofuscado de todas las ofuscaciones de programación bash situadas en la herramienta. 
 Es una herramienta bastante interactiva y compleja de entender, contiene dos instalaciones externas pero solo serán instaladas cuando sea necesario. 
 
