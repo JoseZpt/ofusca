@@ -31,6 +31,7 @@ Esta seria toda la instalación, ahora para ver más opciones solo se ejecuta 'o
 # Uso
 > Para ver listado de ofuscación
    ofusca -o
-#
-> Para ver listado de desofuscacion
-   ofusca -d 
+
+
+> Para ver listado de desofuscaciones
+ofusca -d 
